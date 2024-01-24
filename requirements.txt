@@ -1,0 +1,13 @@
+numpy==1.20.3
+streamlit==1.0.0
+time==1.0.0
+pandas==1.0.0
+seaborn==1.0.0
+pandas==1.0.0
+matplotlib.pyplot==1.0.0
+datetime==1.0.0
+MinMaxScaler==1.0.0
+Sequential==1.0.0
+Adam==1.0.0
+layers==1.0.0
+plotly.express==1.0.0
